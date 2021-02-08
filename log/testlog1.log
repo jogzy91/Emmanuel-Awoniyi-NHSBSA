@@ -1,0 +1,48 @@
+2021-02-08 04:40:18,869 [main] INFO NHSCheckerTool - ************ Launching Browser ****************
+2021-02-08 04:40:18,885 [main] INFO NHSCheckerTool - ************ Opening URL****************
+2021-02-08 04:40:21,723 [main] INFO NHSCheckerTool - ************ Click on start button ****************
+2021-02-08 04:40:24,036 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:24,050 [main] INFO NHSCheckerTool - ************ Selecting Wales and click on next button ****************
+2021-02-08 04:40:28,383 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:28,398 [main] INFO NHSCheckerTool - ************ Entering Date of Birth ****************
+2021-02-08 04:40:30,877 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:30,885 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:33,228 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:33,234 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:35,558 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:35,566 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:37,879 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:37,895 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Yes ****************
+2021-02-08 04:40:40,331 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:40,344 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:42,718 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:42,735 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:45,090 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:40:45,107 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:47,542 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:40:49,882 [main] INFO NHSCheckerTool - ************ Verifying the characters the page contains ****************
+2021-02-08 04:40:49,933 [main] INFO NHSCheckerTool - ************ Closing browser ****************
+2021-02-08 04:42:07,873 [main] INFO NHSCheckerTool - ************ Launching Browser ****************
+2021-02-08 04:42:07,886 [main] INFO NHSCheckerTool - ************ Opening URL****************
+2021-02-08 04:42:10,573 [main] INFO NHSCheckerTool - ************ Click on start button ****************
+2021-02-08 04:42:12,910 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:12,924 [main] INFO NHSCheckerTool - ************ Selecting Wales and click on next button ****************
+2021-02-08 04:42:17,309 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:17,329 [main] INFO NHSCheckerTool - ************ Entering Date of Birth ****************
+2021-02-08 04:42:19,860 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:19,874 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:22,174 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:22,182 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:24,478 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:24,490 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:26,836 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:26,859 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Yes ****************
+2021-02-08 04:42:29,181 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:29,192 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:31,539 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:31,550 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:33,882 [main] INFO NHSCheckerTool - ************ Verifying Page Title ****************
+2021-02-08 04:42:33,890 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:36,272 [main] INFO NHSCheckerTool - ************ Selecting No and Clicking Next button ****************
+2021-02-08 04:42:50,333 [main] INFO NHSCheckerTool - ************ Verifying the characters the page contains ****************
+2021-02-08 04:42:50,395 [main] INFO NHSCheckerTool - ************ Closing browser ****************
